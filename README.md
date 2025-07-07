@@ -1,4 +1,4 @@
-# Sistemas_Distribuidos
+# Sistemas-Distribuidos
 Este projeto consistiu na elaboração de uma base de dados distribuída 
 
 Grade: 15/20
